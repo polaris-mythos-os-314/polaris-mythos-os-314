@@ -1,51 +1,50 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <meta charset="UTF-8">
-  <title>Polaris OS Mythos 314</title>
+    <meta charset="UTF-8">
+    <title>Polaris OS Mythos 314</title>
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #0a0f1f, #1a2a40);
-      color: white;
-      text-align: center;
-    }
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #0a0f1f, #1a2a40);
+            color: white;
+            text-align: center;
+        }
 
-    header {
-      padding: 60px 20px;
-    }
+        header {
+            padding: 60px 20px;
+        }
 
-    h1 {
-      font-size: 3em;
-    }
+        h1 {
+            font-size: 3em;
+        }
 
-    h2 {
-      color: #00d4ff;
-      margin-top: 40px;
-    }
+        h2 {
+            color: #00d4ff;
+            margin-top: 40px;
+        }
 
-    a {
-      color: #00d4ff;
-      text-decoration: none;
-    }
-  </style>
+        a {
+            color: #00d4ff;
+            text-decoration: none;
+        }
+    </style>
 </head>
 
 <body>
 
-  <header>
+<header>
     <h1>🚀 Polaris OS Mythos 314</h1>
     <p>Architecture psychohistorique post-ego</p>
-  </header>
+</header>
 
-  <h2>🧠 Vision</h2>
-  <p>Système global d’analyse et d’anticipation des dynamiques humaines.</p>
+<h2>🧠 Vision</h2>
+<p>Système global d’analyse et d’anticipation des dynamiques humaines.</p>
 
-  <h2>⚙️ Modules</h2>
-  <p>Core Omega • Psychohistory • Post Ego</p>
+<h2>⚙️ Modules</h2>
+<p>Core Omega • Psychohistoire • Post Ego</p>
 
 </body>
 </html>
