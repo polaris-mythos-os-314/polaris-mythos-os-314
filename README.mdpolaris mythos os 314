@@ -25,11 +25,6 @@
             color: #00d4ff;
             margin-top: 40px;
         }
-
-        a {
-            color: #00d4ff;
-            text-decoration: none;
-        }
     </style>
 </head>
 
