@@ -1,113 +1,51 @@
-# 🌌 Polaris mythos os 314
 
-## 🧠 Système Global
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Polaris OS Mythos 314</title>
 
-Polaris OS Mythos 314 est une architecture systémique visant à modéliser, anticiper et influencer les dynamiques humaines à grande échelle à travers la psychohistoire et une approche post-ego.
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #0a0f1f, #1a2a40);
+      color: white;
+      text-align: center;
+    }
 
----
+    header {
+      padding: 60px 20px;
+    }
 
-## ⚙️ Modules
+    h1 {
+      font-size: 3em;
+    }
 
-- 🔹 Core Omega Engine  
-- 🔹 Psychohistory Engine  
-- 🔹 Post Ego System  
-- 🔹 Omega Signal  
-- 🔹 Applications Polaris  
+    h2 {
+      color: #00d4ff;
+      margin-top: 40px;
+    }
 
----
+    a {
+      color: #00d4ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
 
-## 🔗 Vision
+<body>
 
-Un écosystème modulaire où chaque composant est indépendant mais interconnecté.
+  <header>
+    <h1>🚀 Polaris OS Mythos 314</h1>
+    <p>Architecture psychohistorique post-ego</p>
+  </header>
 
----
+  <h2>🧠 Vision</h2>
+  <p>Système global d’analyse et d’anticipation des dynamiques humaines.</p>
 
-## 🏴 Dissidence
+  <h2>⚙️ Modules</h2>
+  <p>Core Omega • Psychohistory • Post Ego</p>
 
-Polaris est destiné à ceux qui refusent les limites des systèmes classiques et souhaitent devenir architectes de leur destin.
-
----
-
-## 🔮 Objectif
-
-Créer un système évolutif capable de :
-
-- S’adapter  
-- Apprendre  
-- Évoluer  
-- Structurer le futur  
-
----
-
-## 📡 État
-
-🟡 Initialisation  
-🔧 En développement  
-
----
-
-🔥 Polaris n’est pas un projet.  
-C’est une architecture.
----
-
-## 🌐 Écosystème Polaris
-
-### 🔗 Modules connectés
-
-- [Polaris Core Omega Engine](https://github.com/TON-USERNAME/polaris-core-omega-engine)
-
----
-
-## 🧩 Architecture globale
-
-Polaris fonctionne comme un système modulaire :
-
-- Chaque module est indépendant  
-- Chaque module peut évoluer seul  
-- Tous les modules sont interconnectés  
-
----
-
-## 🚀 Expansion
-
-D’autres modules viendront compléter l’écosystème :
-
-- Polaris IA  
-- Polaris Apps  
-- Polaris Data Engine  
-- Polaris Simulation  
-
----
-
-🔥 L’objectif est de construire un système complet et évolutif.---
-
-## 🌐 Écosystème Polaris
-
-### 🔗 Modules connectés
-
-- [Polaris Core Omega Engine](https://github.com/TON-USERNAME/polaris-core-omega-engine)
-
----
-
-## 🧩 Architecture globale
-
-Polaris fonctionne comme un système modulaire :
-
-- Modules indépendants  
-- Évolution autonome  
-- Interconnexion totale  
-
----
-
-## 🚀 Expansion
-
-Modules futurs :
-
-- Polaris IA  
-- Polaris Apps  
-- Polaris Data Engine  
-- Polaris Simulation  
-
----
-
-🔥 Polaris devient un écosystème vivant.
+</body>
+</html>
